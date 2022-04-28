@@ -1,0 +1,4 @@
+suites:
+  diagnolek_http_suite:
+    namespace: Diagnolek\Http
+    psr4_prefix: Diagnolek
